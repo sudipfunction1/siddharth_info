@@ -69,20 +69,20 @@ a, a:link, a:active, a:visited, a:hover {
 	height: 100%;
 }
 
-.sec .maria {
-	background-image: url('../img/maria.jpg');
+.sec .sid1 {
+	background-image: url('../img/sid1.jpeg');
 }
-.sec .novak {
-	background-image: url('../img/novak.jpg');
+.sec .sid2 {
+	background-image: url('../img/sid2.jpeg');
 }
-.sec .ana {
-	background-image: url('../img/ana.jpg');
+.sec .sid3 {
+	background-image: url('../img/sid3.jpeg');
 }
-.sec .kei {
-	background-image: url('../img/kei.png');
+.sec .sid4 {
+	background-image: url('../img/sid4.jpeg');
 }
-.sec .porsche {
-	background-image: url(' ../img/porsche.jpg');
+.sec .sid5 {
+	background-image: url(' ../img/sid5.jpeg');
 }
 
 .sec .bgImg {
