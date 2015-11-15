@@ -827,7 +827,7 @@
                     }
                 }
 
-                nav.find('ul').append('<li data-tooltip="' + tooltip + '"><a href="#' + link + '"><span></span></a></li>');
+                //nav.find('ul').append('<li data-tooltip="' + tooltip + '"><a href="#' + link + '"><span></span></a></li>');
             }
 
             nav.find('span').css('border-color', options.navigation.bulletsColor);
