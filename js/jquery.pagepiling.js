@@ -24,7 +24,7 @@
 
         // Create some defaults, extending them with any options that were provided
         var options = $.extend(true, {
-            direction: 'vertical',
+            direction: 'Horizontal',
             menu: null,
             verticalCentered: true,
             sectionsColor: [],
