@@ -31,7 +31,7 @@
             anchors: [],
             scrollingSpeed: 700,
             easing: 'easeInQuart',
-            loopBottom: false,
+            loopBottom: true,
             loopTop: false,
             css3: true,
             navigation: {
