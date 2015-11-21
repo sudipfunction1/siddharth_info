@@ -37,7 +37,7 @@
 
 				// Pagepilling
 				$('#pagepiling').pagepiling({
-					direction: 'vertical',
+					direction: 'horizontal',
 					menu : '#menu',
 					navigation : {
 						'position' : 'right',
