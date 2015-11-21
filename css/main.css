@@ -31,7 +31,7 @@ a, a:link, a:active, a:visited, a:hover {
 	height: 100%;
 	background-image: url('img/ajax-loader.gif');
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: center center;
 	z-index: 111;
 }
 .bg {
@@ -51,7 +51,7 @@ a, a:link, a:active, a:visited, a:hover {
 	top: 50%;
 	opacity:0;
 }
-.arws .lft  {
+.arws .lft {
 	position: absolute;
 	left: 20px;
 	top:-22px;
@@ -62,7 +62,7 @@ a, a:link, a:active, a:visited, a:hover {
 	top:-22px;
 }
 .arws i {
-	font-size: 90px;
+	font-size: 50px;
 }
 
 .sec {
