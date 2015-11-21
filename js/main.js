@@ -41,7 +41,7 @@
 					menu : '#menu',
 					navigation : {
 						'position' : 'right',
-						'tooltips' : ['Maria Sharapova', 'Novak Djokovic','Ana Ivanovic','Kei Nishikori','Porsche Tennis Grand Prix']
+						'tooltips' : ['', '','','','']
 					},
 					afterRender : function() {
 						$('#pp-nav').addClass('custom');
@@ -57,10 +57,10 @@
 						}else{
 							$('.arws .lft').fadeIn();
 						}
-						if(index == 5){
+						if(index == 0){
 							$('.arws .rght').fadeOut();
 						}else{
-							$('.arws .rght').fadeIn();
+							$   ('.arws .rght').fadeIn();
 						}
 					},
 					onLeave : function(index, nextIndex, direction) {
