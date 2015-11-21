@@ -20,18 +20,18 @@
         //Defines the delay to take place before being able to scroll to the next section
         //BE CAREFUL! Not recommened to change it under 400 for a good behavior in laptops and
         //Apple devices (laptops, mouses...)
-        var scrollDelay = 600;
+        var scrollDelay = 400;
 
         // Create some defaults, extending them with any options that were provided
         var options = $.extend(true, {
-            direction: 'vertical',
+            direction: 'Horizontal',
             menu: null,
             verticalCentered: true,
             sectionsColor: [],
             anchors: [],
             scrollingSpeed: 700,
             easing: 'easeInQuart',
-            loopBottom: false,
+            loopBottom: true,
             loopTop: false,
             css3: true,
             navigation: {

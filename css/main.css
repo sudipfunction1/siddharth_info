@@ -84,12 +84,33 @@ a, a:link, a:active, a:visited, a:hover {
 .sec .sid5 {
 	background-image: url(' ../img/sid5.jpeg');
 }
+.sec .sid6 {
+	background-image: url(' ../img/sid6.jpeg');
+}
+.sec .sid7 {
+	background-image: url(' ../img/sid7.jpeg');
+}
+.sec .sid8 {
+	background-image: url(' ../img/sid8.jpeg');
+}
+.sec .sid9 {
+	background-image: url(' ../img/sid9.jpeg');
+}
+.sec .sid10 {
+	background-image: url(' ../img/sid10.jpeg');
+}
+.sec .sid11 {
+	background-image: url(' ../img/sid11.jpeg');
+}
+.sec .sid12 {
+	background-image: url(' ../img/sid12.jpeg');
+}
 
 .sec .bgImg {
 	width: 100%;
 	height: 100%;
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: contain;
 	background-position: center;
 
 }
