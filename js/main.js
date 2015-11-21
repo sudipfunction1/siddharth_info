@@ -52,11 +52,12 @@
 						} else {
 							$('#pp-nav').addClass('custom');
 						}
+
 						if(index == 1){
-							$('.arws .lft').fadeOut();
-						}else{
-							$('.arws .lft').fadeIn();
-						}
+                        	$('.arws .lft').fadeOut();
+                        }else{
+                        	$('.arws .lft').fadeIn();
+                      }
 						if(index == 0){
 							$('.arws .rght').fadeOut();
 						}else{
